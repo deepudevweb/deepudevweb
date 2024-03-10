@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Reactjs**
 
-- 📫 How to reach me **Deepuprajapati0846@gmail.com**
+- 📫 How to reach me **deepuprajapati0846@gmail.com**
 
 - 📄 Know about my experiences [https://dp-basicport.netlify.app](https://dp-basicport.netlify.app)
 
