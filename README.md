@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Nextjs , Reactjs**
 
-- 👨‍💻 All of my projects are available at [https://dp-basicport.netlify.app](https://dp-basicport.netlify.app)
+- 👨‍💻 All of my projects are available at [https://dp-basicport.vercel.app/](https://dp-basicport.vercel.app/)
 
 - 💬 Ask me about **Reactjs**
 
 - 📫 How to reach me **deepuprajapati0846@gmail.com**
 
-- 📄 Know about my experiences [https://dp-basicport.netlify.app](https://dp-basicport.netlify.app)
+- 📄 Know about my experiences [https://dp-basicport.vercel.app/](https://dp-basicport.vercel.app/)
 
 - ⚡ Fun fact **Creating videos on youtube,and instagram**
 
